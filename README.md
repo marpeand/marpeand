@@ -1,16 +1,16 @@
-### Hi there 👋
+```python
+class Marpeand:
+    """docstring for Marpeand"""
+    def __init__(self, arg):
+        self.username = 'marpeand'
+        self.name = 'Mariano'
+        self.location = '\U0001f1e6\U0001f1f7'
+        self.knowledge = ['Python', 'C', 'HTML', 'CSS', 'JS', 'Boostrap']
 
-<!--
-**marpeand/marpeand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def __str__(self):
+        return self.name
 
-Here are some ideas to get you started:
+if __name__ == '__main__':
+    me = Marpeand()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
