@@ -1,1 +1,1 @@
-![](mario.gif)
+:bat:
