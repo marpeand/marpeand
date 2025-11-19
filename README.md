@@ -1,1 +1,1 @@
-![](ba.gif)
+<img src="ba.gif" width="100%">
